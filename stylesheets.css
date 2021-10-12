@@ -1,5 +1,4 @@
-/*why is the background image not appearing*/
-.A1, .A2 {
+.A2 {
 	background-image: url(http://imagebank.biz/wp-content/uploads/2013/05/Sunset-Mountain-Wallpaper.jpg);
 	height: 100vh;
   	width: 100vw;
@@ -11,4 +10,33 @@
 
 .btn {
 	background-color:  #660066 !important;
+}
+
+.B3 {
+	margin-left: 700px;
+}
+
+.A3 {
+	margin-left: 450px;
+	margin-top: 200px;
+	/*fix font-size*/
+	font-size: 900% !important;
+}
+
+.A4 {
+	margin-left: 350px;
+}
+
+.A5 {
+	margin-left: 575px;
+}
+
+.A6 {
+	margin-left: 350px;
+	margin-top: 50px;
+}
+
+.A7 {
+	margin-left: 100px;
+	margin-bottom: 50px;
 }
