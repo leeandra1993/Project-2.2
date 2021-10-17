@@ -10,33 +10,24 @@
 
 .btn {
 	background-color:  #660066 !important;
-}
-
-.B3 {
-	margin-left: 700px;
-}
+	}
 
 .A3 {
-	margin-left: 450px;
-	margin-top: 200px;
-	/*fix font-size*/
-	font-size: 900% !important;
+	padding-top: 200px;
+	text-align: center;
+	font-size: 80px;
 }
 
-.A4 {
-	margin-left: 350px;
+.A4, .A6, .A7 {
+	text-align: center;
 }
 
-.A5 {
-	margin-left: 575px;
+.rounded-circle {
+	width: 40%;
+	height: 100%;
+	border-radius: 50%;
 }
 
-.A6 {
-	margin-left: 350px;
-	margin-top: 50px;
-}
-
-.A7 {
-	margin-left: 100px;
-	margin-bottom: 50px;
+.D1, .D2, .C1, .C2 {
+	font-size: 18px;
 }
