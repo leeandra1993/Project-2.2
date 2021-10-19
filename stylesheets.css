@@ -32,5 +32,27 @@
 	font-size: 18px;
 }
 
+.D1, .C1 {
+	font-size: 30px;
+}
 
+.F2, .F3 {
+	font-size: 20px;
+}
+
+.F4 {
+	background-color: #ffe6ff;
+}
+
+.H1 {
+	text-decoration: none;
+}
+
+.img-fluid {
+	object-fit: fill;
+}
+
+.C1 {
+	padding-top: 60px;
+}
 
