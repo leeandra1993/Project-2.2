@@ -15,7 +15,7 @@
 .A3 {
 	padding-top: 200px;
 	text-align: center;
-	font-size: 80px;
+	font-size: 8vw;
 }
 
 .A4, .A6, .A7 {
@@ -56,3 +56,59 @@
 	padding-top: 60px;
 }
 
+.A1 {
+	background-color: #ffe6ff;
+}
+
+.J1 {
+	background-image: url(https://wallpapercave.com/wp/wp5984718.jpg);
+	height: 30vh;
+  	width: 50vw;
+}
+
+.J2 {
+	background-image: url(https://www.pcclean.io/wp-content/uploads/2020/4/Fr2MJv.jpg);
+	height: 30vh;
+  	width: 50vw;
+}
+
+.J3 {
+	background-image: url(https://i.pinimg.com/originals/f3/a4/57/f3a457be942d12afc3107fb08bf92134.jpg);
+	height: 30vh;
+  	width: 50vw;
+}
+
+.J4, .J5, .J6 {
+	color: white;
+}
+
+/*On screens that are 375px wide or less, make the columns stack on top of each other instead of next to each other*/
+@media screen and (max-width: 375px) {
+	.B3 {
+		align-content: center;
+	}
+
+	.A6 {
+		padding-top: 30px;
+	}
+
+	.A7 {
+		padding-bottom: 30px;
+	}
+
+	.rounded-circle {
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	.J4, .J5, .J6 {
+		padding-top: 60px;
+	}
+
+	.K1, .K2 {
+		padding-top: 30px;
+	}
+
+	.F3 {
+		padding-bottom: 30px;
+	}
