@@ -136,6 +136,10 @@
 	.F2 {
 		padding-bottom: 10px;
 	}
+
+	.I1 {
+		padding-left: 145px;
+	}
 }
 
 .I1 {
@@ -173,3 +177,4 @@
 .J4:hover {
 	color: #00cca3 !important;
 }
+
